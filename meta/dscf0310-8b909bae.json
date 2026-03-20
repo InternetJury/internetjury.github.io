@@ -1,0 +1,92 @@
+{
+  "metadata": {
+    "sourceFilename": "DSCF0310.JPG",
+    "sourcePath": "Z:/Photos for Print/Nepal Trip/Input/JPEG/DSCF0310.JPG",
+    "photoId": "dscf0310-8b909bae",
+    "sourceSha256": "8b909bae1c78394ffcd609fc59c660a0e73ba11a779c4189dba37c1e2e538f06",
+    "sourceWidth": 4160,
+    "sourceHeight": 6240,
+    "orientationTag": 8,
+    "orientation": 0,
+    "captureDateTime": "2025:11:13 14:24:51",
+    "cameraMake": "FUJI",
+    "cameraModel": "X-S20",
+    "lensModel": "Sigma 18-50mm f/2.8",
+    "focalLengthMm": "50mm",
+    "focalLength35mmMm": "75mm",
+    "aperture": "f/5.6",
+    "shutter": "1/480s",
+    "iso": "160",
+    "gpsLatitude": null,
+    "gpsLongitude": null,
+    "filmSimulation": "Classic Chrome",
+    "recipeSettings": {
+      "filmSimulation": "Classic Chrome",
+      "whiteBalance": "Auto",
+      "whiteBalanceShift": "Red +40, Blue -80",
+      "colorTemperature": "",
+      "dynamicRange": "Standard",
+      "highlight": "-1 (medium soft)",
+      "shadow": "-1 (medium soft)",
+      "color": "+2 (high)",
+      "sharpness": "Soft",
+      "noiseReduction": "-4 (weakest)",
+      "clarity": "0",
+      "grainRoughness": "Weak",
+      "grainSize": "Small",
+      "colorChromeEffect": "Strong",
+      "colorChromeFxBlue": "Weak",
+      "shutterType": "Mechanical"
+    },
+    "recipeSignature": "Classic Chrome | DR Standard | WB Auto | WB Fine Red +40, Blue -80 | Highlight -1 (medium soft) | Shadow -1 (medium soft) | Color +2 (high) | Clarity 0 | Grain Rough Weak | Grain Size Small | Color Chrome Strong | FX Blue Weak | NR -4 (weakest) | Sharp Soft | Shutter Type Mechanical",
+    "embeddedRecipeName": "",
+    "embeddedRecipeNameSource": "",
+    "colorSpaceExif": "1",
+    "effectiveProfile": "sRGB"
+  },
+  "location": {
+    "frontLabel": "Himalaya, Nepal",
+    "archiveLabel": "Himalaya over central Nepal",
+    "coordinatesDms": "",
+    "countryCode": "NP",
+    "countryName": "Nepal",
+    "labelSource": "curated_override",
+    "hasGps": false,
+    "recognizablePlace": "Himalaya",
+    "tidbitQuery": "Himalaya"
+  },
+  "recipeResolution": {
+    "recipeNameUsed": "Recipe: Unresolved",
+    "nameSource": "unresolved",
+    "confidence": "unresolved",
+    "matchedFields": [
+      "film_simulation",
+      "dynamic_range"
+    ],
+    "candidateMatches": [
+      "Kodak Farbwelt 200 Expired — A Fujifilm Film Simulation Recipe for X-Trans V Cameras"
+    ],
+    "resolutionNotes": "Best match ratio 0.31 was too weak to claim a reliable recipe name.",
+    "bestScoreRatio": 0.3103448275862069
+  },
+  "weather": {
+    "isAvailable": false,
+    "summary": "",
+    "temperatureC": "",
+    "timeLabel": "",
+    "sourceLabel": "GPS unavailable.",
+    "sourceUrl": ""
+  },
+  "tidbit": {
+    "isAvailable": false,
+    "title": "",
+    "summary": "",
+    "sourceLabel": "",
+    "sourceUrl": ""
+  },
+  "archiveLink": {
+    "baseUrl": "https://internetjury.github.io",
+    "relativePath": "/p/dscf0310-8b909bae/",
+    "url": "https://internetjury.github.io/p/dscf0310-8b909bae/"
+  }
+}

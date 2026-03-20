@@ -1,0 +1,96 @@
+{
+  "metadata": {
+    "sourceFilename": "DSCF1502.JPG",
+    "sourcePath": "Z:/Photos for Print/Nepal Trip/Input/JPEG/DSCF1502.JPG",
+    "photoId": "dscf1502-a4a870d9",
+    "sourceSha256": "a4a870d94a4b1727885d5c36add74370b3ce278adf3485bc0ad64f5c40d19fd3",
+    "sourceWidth": 6240,
+    "sourceHeight": 4160,
+    "orientationTag": 1,
+    "orientation": 1,
+    "captureDateTime": "2025:11:21 09:43:05",
+    "cameraMake": "FUJI",
+    "cameraModel": "X-S20",
+    "lensModel": "Sigma 18-50mm f/2.8",
+    "focalLengthMm": "50mm",
+    "focalLength35mmMm": "75mm",
+    "aperture": "f/2.8",
+    "shutter": "1/150s",
+    "iso": "2500",
+    "gpsLatitude": null,
+    "gpsLongitude": null,
+    "filmSimulation": "Velvia",
+    "recipeSettings": {
+      "filmSimulation": "Velvia",
+      "whiteBalance": "Kelvin",
+      "whiteBalanceShift": "Red +60, Blue -80",
+      "colorTemperature": "4900",
+      "dynamicRange": "Standard",
+      "highlight": "-2 (soft)",
+      "shadow": "-2 (soft)",
+      "color": "-4 (lowest)",
+      "sharpness": "Soft",
+      "noiseReduction": "0 (normal)",
+      "clarity": "0",
+      "grainRoughness": "Off",
+      "grainSize": "Off",
+      "colorChromeEffect": "Strong",
+      "colorChromeFxBlue": "Strong",
+      "shutterType": "Mechanical"
+    },
+    "recipeSignature": "Velvia | DR Standard | WB Kelvin | WB Fine Red +60, Blue -80 | WB Temp 4900 | Highlight -2 (soft) | Shadow -2 (soft) | Color -4 (lowest) | Clarity 0 | Grain Rough Off | Grain Size Off | Color Chrome Strong | FX Blue Strong | NR 0 (normal) | Sharp Soft | Shutter Type Mechanical",
+    "embeddedRecipeName": "",
+    "embeddedRecipeNameSource": "",
+    "colorSpaceExif": "1",
+    "effectiveProfile": "sRGB"
+  },
+  "location": {
+    "frontLabel": "Kathmandu, Nepal",
+    "archiveLabel": "Kathmandu, Bagmati Province, Nepal",
+    "coordinatesDms": "",
+    "countryCode": "NP",
+    "countryName": "Nepal",
+    "labelSource": "curated_override",
+    "hasGps": false,
+    "recognizablePlace": "Kathmandu",
+    "tidbitQuery": "Kathmandu"
+  },
+  "recipeResolution": {
+    "recipeNameUsed": "Recipe: Unresolved",
+    "nameSource": "unresolved",
+    "confidence": "unresolved",
+    "matchedFields": [
+      "film_simulation",
+      "clarity",
+      "color_chrome_effect",
+      "color_chrome_fx_blue"
+    ],
+    "candidateMatches": [
+      "BewareMyVelvia — A Fujifilm Film Simulation Recipe for X-Trans IV & V",
+      "Aerochrome v2 — Fujifilm X-T3/X-T30 Full Spectrum Infrared Film Simulation",
+      "Vivid Velvia"
+    ],
+    "resolutionNotes": "Best match ratio 0.32 was too weak to claim a reliable recipe name.",
+    "bestScoreRatio": 0.3225806451612903
+  },
+  "weather": {
+    "isAvailable": false,
+    "summary": "",
+    "temperatureC": "",
+    "timeLabel": "",
+    "sourceLabel": "GPS unavailable.",
+    "sourceUrl": ""
+  },
+  "tidbit": {
+    "isAvailable": false,
+    "title": "",
+    "summary": "",
+    "sourceLabel": "",
+    "sourceUrl": ""
+  },
+  "archiveLink": {
+    "baseUrl": "https://internetjury.github.io",
+    "relativePath": "/p/dscf1502-a4a870d9/",
+    "url": "https://internetjury.github.io/p/dscf1502-a4a870d9/"
+  }
+}

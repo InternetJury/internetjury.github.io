@@ -1,0 +1,94 @@
+{
+  "metadata": {
+    "sourceFilename": "DSCF1025.JPG",
+    "sourcePath": "Z:/Photos for Print/Nepal Trip/Input/JPEG/DSCF1025.JPG",
+    "photoId": "dscf1025-cd032dc7",
+    "sourceSha256": "cd032dc7cbefcb29519b644a51ec9c3394f6263f2e25d48ee5b592981f20c92b",
+    "sourceWidth": 9600,
+    "sourceHeight": 2160,
+    "orientationTag": 1,
+    "orientation": 1,
+    "captureDateTime": "2025:11:16 15:13:32",
+    "cameraMake": "FUJI",
+    "cameraModel": "X-S20",
+    "lensModel": "Sigma 18-50mm f/2.8",
+    "focalLengthMm": "18mm",
+    "focalLength35mmMm": "27mm",
+    "aperture": "f/14",
+    "shutter": "1/450s",
+    "iso": "640",
+    "gpsLatitude": 28.7642194444444,
+    "gpsLongitude": 83.7171816666667,
+    "filmSimulation": "Velvia",
+    "recipeSettings": {
+      "filmSimulation": "Velvia",
+      "whiteBalance": "Kelvin",
+      "whiteBalanceShift": "Red +60, Blue -80",
+      "colorTemperature": "4900",
+      "dynamicRange": "Standard",
+      "highlight": "0 (normal)",
+      "shadow": "0 (normal)",
+      "color": "0 (normal)",
+      "sharpness": "Film Simulation",
+      "noiseReduction": "Normal",
+      "clarity": "0",
+      "grainRoughness": "Off",
+      "grainSize": "Off",
+      "colorChromeEffect": "Off",
+      "colorChromeFxBlue": "Off",
+      "shutterType": "Mechanical"
+    },
+    "recipeSignature": "Velvia | DR Standard | WB Kelvin | WB Fine Red +60, Blue -80 | WB Temp 4900 | Highlight 0 (normal) | Shadow 0 (normal) | Color 0 (normal) | Clarity 0 | Grain Rough Off | Grain Size Off | Color Chrome Off | FX Blue Off | NR Normal | Sharp Film Simulation | Shutter Type Mechanical",
+    "embeddedRecipeName": "",
+    "embeddedRecipeNameSource": "",
+    "colorSpaceExif": "1",
+    "effectiveProfile": "sRGB"
+  },
+  "location": {
+    "frontLabel": "Mustang, Nepal",
+    "archiveLabel": "Khutsab Terenga Gumba, Mustang, Nepal",
+    "coordinatesDms": "28° 46' N, 83° 43' E",
+    "countryCode": "NP",
+    "countryName": "Nepal",
+    "labelSource": "curated_override",
+    "hasGps": true,
+    "recognizablePlace": "Khutsab Terenga Gumba",
+    "tidbitQuery": "Khutsab Terenga Gumba"
+  },
+  "recipeResolution": {
+    "recipeNameUsed": "Recipe: Unresolved",
+    "nameSource": "unresolved",
+    "confidence": "unresolved",
+    "matchedFields": [
+      "film_simulation",
+      "shadow"
+    ],
+    "candidateMatches": [
+      "Aerochrome v2 — Fujifilm X-T3/X-T30 Full Spectrum Infrared Film Simulation",
+      "BewareMyVelvia — A Fujifilm Film Simulation Recipe for X-Trans IV & V",
+      "Vivid Velvia"
+    ],
+    "resolutionNotes": "Best match ratio 0.29 was too weak to claim a reliable recipe name.",
+    "bestScoreRatio": 0.2857142857142857
+  },
+  "weather": {
+    "isAvailable": true,
+    "summary": "Clear",
+    "temperatureC": "14.7°C",
+    "timeLabel": "2025-11-16T15:00",
+    "sourceLabel": "Open-Meteo historical nearest-hour estimate",
+    "sourceUrl": "https://open-meteo.com/en/docs/historical-weather-api"
+  },
+  "tidbit": {
+    "isAvailable": false,
+    "title": "",
+    "summary": "",
+    "sourceLabel": "",
+    "sourceUrl": ""
+  },
+  "archiveLink": {
+    "baseUrl": "https://internetjury.github.io",
+    "relativePath": "/p/dscf1025-cd032dc7/",
+    "url": "https://internetjury.github.io/p/dscf1025-cd032dc7/"
+  }
+}

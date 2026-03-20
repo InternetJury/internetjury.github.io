@@ -1,0 +1,92 @@
+{
+  "metadata": {
+    "sourceFilename": "DSCF0997.JPG",
+    "sourcePath": "Z:/Photos for Print/Nepal Trip/Input/JPEG/DSCF0997.JPG",
+    "photoId": "dscf0997-1486abdd",
+    "sourceSha256": "1486abdd0325e22c07e83cdcbb9f5a727146662a61ab1530e326e2759e04d50f",
+    "sourceWidth": 4160,
+    "sourceHeight": 6240,
+    "orientationTag": 8,
+    "orientation": 0,
+    "captureDateTime": "2025:11:16 12:32:10",
+    "cameraMake": "FUJI",
+    "cameraModel": "X-S20",
+    "lensModel": "Sigma 18-50mm f/2.8",
+    "focalLengthMm": "18mm",
+    "focalLength35mmMm": "27mm",
+    "aperture": "f/5.6",
+    "shutter": "1/600s",
+    "iso": "320",
+    "gpsLatitude": 28.8168072222222,
+    "gpsLongitude": 83.8686613888889,
+    "filmSimulation": "Classic Chrome",
+    "recipeSettings": {
+      "filmSimulation": "Classic Chrome",
+      "whiteBalance": "Auto",
+      "whiteBalanceShift": "Red +40, Blue -80",
+      "colorTemperature": "",
+      "dynamicRange": "Standard",
+      "highlight": "-1 (medium soft)",
+      "shadow": "-1 (medium soft)",
+      "color": "+2 (high)",
+      "sharpness": "Soft",
+      "noiseReduction": "-4 (weakest)",
+      "clarity": "0",
+      "grainRoughness": "Weak",
+      "grainSize": "Small",
+      "colorChromeEffect": "Strong",
+      "colorChromeFxBlue": "Weak",
+      "shutterType": "Mechanical"
+    },
+    "recipeSignature": "Classic Chrome | DR Standard | WB Auto | WB Fine Red +40, Blue -80 | Highlight -1 (medium soft) | Shadow -1 (medium soft) | Color +2 (high) | Clarity 0 | Grain Rough Weak | Grain Size Small | Color Chrome Strong | FX Blue Weak | NR -4 (weakest) | Sharp Soft | Shutter Type Mechanical",
+    "embeddedRecipeName": "",
+    "embeddedRecipeNameSource": "",
+    "colorSpaceExif": "1",
+    "effectiveProfile": "sRGB"
+  },
+  "location": {
+    "frontLabel": "Muktinath, Nepal",
+    "archiveLabel": "Muktinath Temple, Mustang, Nepal",
+    "coordinatesDms": "28° 49' N, 83° 52' E",
+    "countryCode": "NP",
+    "countryName": "Nepal",
+    "labelSource": "curated_override",
+    "hasGps": true,
+    "recognizablePlace": "Muktinath Temple",
+    "tidbitQuery": "Muktinath Temple"
+  },
+  "recipeResolution": {
+    "recipeNameUsed": "Recipe: Unresolved",
+    "nameSource": "unresolved",
+    "confidence": "unresolved",
+    "matchedFields": [
+      "film_simulation",
+      "dynamic_range"
+    ],
+    "candidateMatches": [
+      "Kodak Farbwelt 200 Expired — A Fujifilm Film Simulation Recipe for X-Trans V Cameras"
+    ],
+    "resolutionNotes": "Best match ratio 0.31 was too weak to claim a reliable recipe name.",
+    "bestScoreRatio": 0.3103448275862069
+  },
+  "weather": {
+    "isAvailable": true,
+    "summary": "Clear",
+    "temperatureC": "10.3°C",
+    "timeLabel": "2025-11-16T13:00",
+    "sourceLabel": "Open-Meteo historical nearest-hour estimate",
+    "sourceUrl": "https://open-meteo.com/en/docs/historical-weather-api"
+  },
+  "tidbit": {
+    "isAvailable": false,
+    "title": "",
+    "summary": "",
+    "sourceLabel": "",
+    "sourceUrl": ""
+  },
+  "archiveLink": {
+    "baseUrl": "https://internetjury.github.io",
+    "relativePath": "/p/dscf0997-1486abdd/",
+    "url": "https://internetjury.github.io/p/dscf0997-1486abdd/"
+  }
+}

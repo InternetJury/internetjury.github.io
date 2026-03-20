@@ -1,0 +1,98 @@
+{
+  "metadata": {
+    "sourceFilename": "DSCF1485.JPG",
+    "sourcePath": "Z:/Photos for Print/Nepal Trip/Input/JPEG/DSCF1485.JPG",
+    "photoId": "dscf1485-e1faf203",
+    "sourceSha256": "e1faf20366a04750434e05e9ab1e990b8d7a81d870598626d435892594422e19",
+    "sourceWidth": 4160,
+    "sourceHeight": 6240,
+    "orientationTag": 8,
+    "orientation": 0,
+    "captureDateTime": "2025:11:21 08:48:52",
+    "cameraMake": "FUJI",
+    "cameraModel": "X-S20",
+    "lensModel": "Sigma 18-50mm f/2.8",
+    "focalLengthMm": "18mm",
+    "focalLength35mmMm": "27mm",
+    "aperture": "f/7.1",
+    "shutter": "1/1900s",
+    "iso": "640",
+    "gpsLatitude": null,
+    "gpsLongitude": null,
+    "filmSimulation": "Classic Negative",
+    "recipeSettings": {
+      "filmSimulation": "Classic Negative",
+      "whiteBalance": "Auto",
+      "whiteBalanceShift": "Red +80, Blue -100",
+      "colorTemperature": "",
+      "dynamicRange": "Standard",
+      "highlight": "-2 (soft)",
+      "shadow": "+1 (medium hard)",
+      "color": "+4 (highest)",
+      "sharpness": "Normal",
+      "noiseReduction": "-4 (weakest)",
+      "clarity": "-4",
+      "grainRoughness": "Strong",
+      "grainSize": "Large",
+      "colorChromeEffect": "Strong",
+      "colorChromeFxBlue": "Strong",
+      "shutterType": "Mechanical"
+    },
+    "recipeSignature": "Classic Negative | DR Standard | WB Auto | WB Fine Red +80, Blue -100 | Highlight -2 (soft) | Shadow +1 (medium hard) | Color +4 (highest) | Clarity -4 | Grain Rough Strong | Grain Size Large | Color Chrome Strong | FX Blue Strong | NR -4 (weakest) | Sharp Normal | Shutter Type Mechanical",
+    "embeddedRecipeName": "",
+    "embeddedRecipeNameSource": "",
+    "colorSpaceExif": "1",
+    "effectiveProfile": "sRGB"
+  },
+  "location": {
+    "frontLabel": "Kathmandu, Nepal",
+    "archiveLabel": "Kathmandu, Bagmati Province, Nepal",
+    "coordinatesDms": "",
+    "countryCode": "NP",
+    "countryName": "Nepal",
+    "labelSource": "curated_override",
+    "hasGps": false,
+    "recognizablePlace": "Kathmandu",
+    "tidbitQuery": "Kathmandu"
+  },
+  "recipeResolution": {
+    "recipeNameUsed": "Recipe: Unresolved",
+    "nameSource": "unresolved",
+    "confidence": "unresolved",
+    "matchedFields": [
+      "film_simulation",
+      "dynamic_range",
+      "highlight",
+      "color",
+      "color_chrome_effect",
+      "color_chrome_fx_blue"
+    ],
+    "candidateMatches": [
+      "Fujicolor C200 v2 — Fujifilm X100V (X-Trans IV) Film Simulation",
+      "Reggie’s Superia — A Fujifilm Recipe for X-Trans IV & V Cameras",
+      "Classic Amber"
+    ],
+    "resolutionNotes": "Best match ratio 0.52 was too weak to claim a reliable recipe name.",
+    "bestScoreRatio": 0.5172413793103449
+  },
+  "weather": {
+    "isAvailable": false,
+    "summary": "",
+    "temperatureC": "",
+    "timeLabel": "",
+    "sourceLabel": "GPS unavailable.",
+    "sourceUrl": ""
+  },
+  "tidbit": {
+    "isAvailable": false,
+    "title": "",
+    "summary": "",
+    "sourceLabel": "",
+    "sourceUrl": ""
+  },
+  "archiveLink": {
+    "baseUrl": "https://internetjury.github.io",
+    "relativePath": "/p/dscf1485-e1faf203/",
+    "url": "https://internetjury.github.io/p/dscf1485-e1faf203/"
+  }
+}

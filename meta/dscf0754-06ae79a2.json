@@ -1,0 +1,93 @@
+{
+  "metadata": {
+    "sourceFilename": "DSCF0754.JPG",
+    "sourcePath": "Z:/Photos for Print/Nepal Trip/Input/JPEG/DSCF0754.JPG",
+    "photoId": "dscf0754-06ae79a2",
+    "sourceSha256": "06ae79a238805f6a5ef92d8efc9ddde46867412a8bc048755bfe19c39731d685",
+    "sourceWidth": 6240,
+    "sourceHeight": 4160,
+    "orientationTag": 1,
+    "orientation": 1,
+    "captureDateTime": "2025:11:16 06:42:20",
+    "cameraMake": "FUJI",
+    "cameraModel": "X-S20",
+    "lensModel": "Sigma 18-50mm f/2.8",
+    "focalLengthMm": "50mm",
+    "focalLength35mmMm": "75mm",
+    "aperture": "f/2.8",
+    "shutter": "1/150s",
+    "iso": "2000",
+    "gpsLatitude": 28.3327686111111,
+    "gpsLongitude": 83.7885422222222,
+    "filmSimulation": "Classic Chrome",
+    "recipeSettings": {
+      "filmSimulation": "Classic Chrome",
+      "whiteBalance": "Daylight",
+      "whiteBalanceShift": "Red +60, Blue -140",
+      "colorTemperature": "",
+      "dynamicRange": "Standard",
+      "highlight": "-2 (soft)",
+      "shadow": "-2 (soft)",
+      "color": "+4 (highest)",
+      "sharpness": "Soft",
+      "noiseReduction": "-4 (weakest)",
+      "clarity": "-3",
+      "grainRoughness": "Strong",
+      "grainSize": "Large",
+      "colorChromeEffect": "Off",
+      "colorChromeFxBlue": "Off",
+      "shutterType": "Mechanical"
+    },
+    "recipeSignature": "Classic Chrome | DR Standard | WB Daylight | WB Fine Red +60, Blue -140 | Highlight -2 (soft) | Shadow -2 (soft) | Color +4 (highest) | Clarity -3 | Grain Rough Strong | Grain Size Large | Color Chrome Off | FX Blue Off | NR -4 (weakest) | Sharp Soft | Shutter Type Mechanical",
+    "embeddedRecipeName": "",
+    "embeddedRecipeNameSource": "",
+    "colorSpaceExif": "1",
+    "effectiveProfile": "sRGB"
+  },
+  "location": {
+    "frontLabel": "Annapurna Range, Nepal",
+    "archiveLabel": "Annapurna Range, Gandaki Province, Nepal",
+    "coordinatesDms": "28° 20' N, 83° 47' E",
+    "countryCode": "NP",
+    "countryName": "Nepal",
+    "labelSource": "curated_override",
+    "hasGps": true,
+    "recognizablePlace": "Annapurna Range",
+    "tidbitQuery": "Annapurna Range"
+  },
+  "recipeResolution": {
+    "recipeNameUsed": "Recipe: Unresolved",
+    "nameSource": "unresolved",
+    "confidence": "unresolved",
+    "matchedFields": [
+      "film_simulation",
+      "dynamic_range",
+      "shadow"
+    ],
+    "candidateMatches": [
+      "Kodak Farbwelt 200 Expired — A Fujifilm Film Simulation Recipe for X-Trans V Cameras"
+    ],
+    "resolutionNotes": "Best match ratio 0.38 was too weak to claim a reliable recipe name.",
+    "bestScoreRatio": 0.3793103448275862
+  },
+  "weather": {
+    "isAvailable": true,
+    "summary": "Clear",
+    "temperatureC": "11.0°C",
+    "timeLabel": "2025-11-16T07:00",
+    "sourceLabel": "Open-Meteo historical nearest-hour estimate",
+    "sourceUrl": "https://open-meteo.com/en/docs/historical-weather-api"
+  },
+  "tidbit": {
+    "isAvailable": false,
+    "title": "",
+    "summary": "",
+    "sourceLabel": "",
+    "sourceUrl": ""
+  },
+  "archiveLink": {
+    "baseUrl": "https://internetjury.github.io",
+    "relativePath": "/p/dscf0754-06ae79a2/",
+    "url": "https://internetjury.github.io/p/dscf0754-06ae79a2/"
+  }
+}
