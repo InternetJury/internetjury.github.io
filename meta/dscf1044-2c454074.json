@@ -45,30 +45,43 @@
     "effectiveProfile": "sRGB"
   },
   "location": {
-    "frontLabel": "Mustang, Nepal",
-    "archiveLabel": "Syang, Mustang, Nepal",
+    "frontLabel": "Syang, Mustang, Gandaki Province, Nepal",
+    "archiveLabel": "Syang, Mustang, Gandaki Province, Nepal",
     "coordinatesDms": "28° 46' N, 83° 42' E",
     "countryCode": "NP",
     "countryName": "Nepal",
     "labelSource": "curated_override",
     "hasGps": true,
-    "recognizablePlace": "Mustang",
-    "tidbitQuery": "Mustang"
+    "place": "Syang",
+    "locality": "Mustang",
+    "region": "Gandaki Province",
+    "editorialBroadLabel": "",
+    "precisionMode": 0,
+    "recognizablePlace": "Syang",
+    "tidbitQuery": "Syang Mustang Nepal"
   },
   "recipeResolution": {
-    "recipeNameUsed": "Recipe: Unresolved",
+    "recipeNameUsed": "",
     "nameSource": "unresolved",
     "confidence": "unresolved",
     "matchedFields": [
       "film_simulation",
       "dynamic_range",
-      "shadow"
+      "highlight",
+      "shadow",
+      "noise_reduction",
+      "grain_roughness",
+      "grain_size"
     ],
     "candidateMatches": [
-      "Kodak Farbwelt 200 Expired — A Fujifilm Film Simulation Recipe for X-Trans V Cameras"
+      "Kodak Farbwelt 200 Expired — A Fujifilm Film Simulation Recipe for X-Trans V Cameras",
+      "Getting a Wes Anderson Look from your Fujifilm Camera + 4 new Film Simulation Recipes!!!! #1",
+      "Getting a Wes Anderson Look from your Fujifilm Camera + 4 new Film Simulation Recipes!!!! #2",
+      "Kodak Gold 200 — Fujifilm X-T5 (X-Trans V)",
+      "Kodak Portra 800 v3 — Fujifilm X-T5 (X-Trans V) & X-E4 (X-Trans IV)"
     ],
-    "resolutionNotes": "Best match ratio 0.38 was too weak to claim a reliable recipe name.",
-    "bestScoreRatio": 0.3793103448275862
+    "resolutionNotes": "Best match ratio 0.52 was not strong enough to claim a reliable recipe name.",
+    "bestScoreRatio": 0.5238095238095238
   },
   "weather": {
     "isAvailable": true,

@@ -45,35 +45,44 @@
     "effectiveProfile": "sRGB"
   },
   "location": {
-    "frontLabel": "Kathmandu, Nepal",
+    "frontLabel": "Kathmandu, Bagmati Province, Nepal",
     "archiveLabel": "Kathmandu, Bagmati Province, Nepal",
     "coordinatesDms": "",
     "countryCode": "NP",
     "countryName": "Nepal",
     "labelSource": "curated_override",
     "hasGps": false,
+    "place": "",
+    "locality": "Kathmandu",
+    "region": "Bagmati Province",
+    "editorialBroadLabel": "",
+    "precisionMode": 0,
     "recognizablePlace": "Kathmandu",
     "tidbitQuery": "Kathmandu"
   },
   "recipeResolution": {
-    "recipeNameUsed": "Recipe: Unresolved",
+    "recipeNameUsed": "",
     "nameSource": "unresolved",
     "confidence": "unresolved",
     "matchedFields": [
       "film_simulation",
-      "dynamic_range",
+      "white_balance",
       "highlight",
-      "color",
+      "noise_reduction",
+      "grain_roughness",
+      "grain_size",
       "color_chrome_effect",
       "color_chrome_fx_blue"
     ],
     "candidateMatches": [
-      "Fujicolor C200 v2 — Fujifilm X100V (X-Trans IV) Film Simulation",
       "Reggie’s Superia — A Fujifilm Recipe for X-Trans IV & V Cameras",
-      "Classic Amber"
+      "Pacific Blues — Fujifilm X-T5 (X-Trans V)",
+      "Reala Ace — Fujifilm X-T5 (X-Trans V)",
+      "Superia Xtra 400 — Fujifilm X-T5 (X-Trans V)",
+      "Kodak Royal Gold 400 — Fujifilm X-Trans IV & X-Trans V"
     ],
-    "resolutionNotes": "Best match ratio 0.52 was too weak to claim a reliable recipe name.",
-    "bestScoreRatio": 0.5172413793103449
+    "resolutionNotes": "Best match ratio 0.56 was not strong enough to claim a reliable recipe name.",
+    "bestScoreRatio": 0.5555555555555556
   },
   "weather": {
     "isAvailable": false,

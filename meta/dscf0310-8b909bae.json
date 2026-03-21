@@ -45,29 +45,39 @@
     "effectiveProfile": "sRGB"
   },
   "location": {
-    "frontLabel": "Himalaya, Nepal",
-    "archiveLabel": "Himalaya over central Nepal",
+    "frontLabel": "Somewhere near the Himalayas, Nepal",
+    "archiveLabel": "Somewhere near the Himalayas, Nepal",
     "coordinatesDms": "",
     "countryCode": "NP",
     "countryName": "Nepal",
     "labelSource": "curated_override",
     "hasGps": false,
-    "recognizablePlace": "Himalaya",
-    "tidbitQuery": "Himalaya"
+    "place": "",
+    "locality": "",
+    "region": "",
+    "editorialBroadLabel": "Somewhere near the Himalayas, Nepal",
+    "precisionMode": 1,
+    "recognizablePlace": "Himalayas",
+    "tidbitQuery": "Himalayas"
   },
   "recipeResolution": {
-    "recipeNameUsed": "Recipe: Unresolved",
+    "recipeNameUsed": "",
     "nameSource": "unresolved",
     "confidence": "unresolved",
     "matchedFields": [
       "film_simulation",
-      "dynamic_range"
+      "white_balance",
+      "color"
     ],
     "candidateMatches": [
-      "Kodak Farbwelt 200 Expired — A Fujifilm Film Simulation Recipe for X-Trans V Cameras"
+      "Fujifilm X-Trans IV Film Simulation Recipe: Reggie’s Portra",
+      "Kodachrome 64 — Fujifilm X-T5 (X-Trans V)",
+      "Texas Sun — Fujifilm X-Trans V",
+      "Getting a Wes Anderson Look from your Fujifilm Camera + 4 new Film Simulation Recipes!!!! #1",
+      "Kodak Portra 160 v2 — Fujifilm X-T5 (X-Trans V)"
     ],
-    "resolutionNotes": "Best match ratio 0.31 was too weak to claim a reliable recipe name.",
-    "bestScoreRatio": 0.3103448275862069
+    "resolutionNotes": "Best match ratio 0.69 was not strong enough to claim a reliable recipe name.",
+    "bestScoreRatio": 0.6857142857142857
   },
   "weather": {
     "isAvailable": false,

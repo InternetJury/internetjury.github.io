@@ -45,29 +45,39 @@
     "effectiveProfile": "sRGB"
   },
   "location": {
-    "frontLabel": "Muktinath, Nepal",
-    "archiveLabel": "Muktinath Temple, Mustang, Nepal",
+    "frontLabel": "Muktinath Temple, Mustang, Gandaki Province, Nepal",
+    "archiveLabel": "Muktinath Temple, Mustang, Gandaki Province, Nepal",
     "coordinatesDms": "28° 49' N, 83° 52' E",
     "countryCode": "NP",
     "countryName": "Nepal",
     "labelSource": "curated_override",
     "hasGps": true,
+    "place": "Muktinath Temple",
+    "locality": "Mustang",
+    "region": "Gandaki Province",
+    "editorialBroadLabel": "",
+    "precisionMode": 0,
     "recognizablePlace": "Muktinath Temple",
     "tidbitQuery": "Muktinath Temple"
   },
   "recipeResolution": {
-    "recipeNameUsed": "Recipe: Unresolved",
+    "recipeNameUsed": "",
     "nameSource": "unresolved",
     "confidence": "unresolved",
     "matchedFields": [
       "film_simulation",
-      "dynamic_range"
+      "white_balance",
+      "color"
     ],
     "candidateMatches": [
-      "Kodak Farbwelt 200 Expired — A Fujifilm Film Simulation Recipe for X-Trans V Cameras"
+      "Fujifilm X-Trans IV Film Simulation Recipe: Reggie’s Portra",
+      "Kodachrome 64 — Fujifilm X-T5 (X-Trans V)",
+      "Texas Sun — Fujifilm X-Trans V",
+      "Getting a Wes Anderson Look from your Fujifilm Camera + 4 new Film Simulation Recipes!!!! #1",
+      "Kodak Portra 160 v2 — Fujifilm X-T5 (X-Trans V)"
     ],
-    "resolutionNotes": "Best match ratio 0.31 was too weak to claim a reliable recipe name.",
-    "bestScoreRatio": 0.3103448275862069
+    "resolutionNotes": "Best match ratio 0.69 was not strong enough to claim a reliable recipe name.",
+    "bestScoreRatio": 0.6857142857142857
   },
   "weather": {
     "isAvailable": true,

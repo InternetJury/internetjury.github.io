@@ -45,33 +45,40 @@
     "effectiveProfile": "sRGB"
   },
   "location": {
-    "frontLabel": "Kathmandu, Nepal",
-    "archiveLabel": "Kathmandu, Bagmati Province, Nepal",
+    "frontLabel": "Hanuman Temple, Janakpur, Madhesh Province, Nepal",
+    "archiveLabel": "Hanuman Temple, Janakpur, Madhesh Province, Nepal",
     "coordinatesDms": "",
     "countryCode": "NP",
     "countryName": "Nepal",
     "labelSource": "curated_override",
     "hasGps": false,
-    "recognizablePlace": "Kathmandu",
-    "tidbitQuery": "Kathmandu"
+    "place": "Hanuman Temple",
+    "locality": "Janakpur",
+    "region": "Madhesh Province",
+    "editorialBroadLabel": "",
+    "precisionMode": 0,
+    "recognizablePlace": "Hanuman Temple, Janakpur",
+    "tidbitQuery": "Janakpur Hanuman Temple"
   },
   "recipeResolution": {
-    "recipeNameUsed": "Recipe: Unresolved",
+    "recipeNameUsed": "",
     "nameSource": "unresolved",
     "confidence": "unresolved",
     "matchedFields": [
       "film_simulation",
+      "white_balance",
       "clarity",
       "color_chrome_effect",
       "color_chrome_fx_blue"
     ],
     "candidateMatches": [
       "BewareMyVelvia — A Fujifilm Film Simulation Recipe for X-Trans IV & V",
-      "Aerochrome v2 — Fujifilm X-T3/X-T30 Full Spectrum Infrared Film Simulation",
+      "Can AI Make a Fujifilm Recipe? — Kodak Ektachrome E100VS — Two Fujifilm X-T5 (X-Trans V + X-Trans IV) Film Simulation Recipes!! #2",
+      "Can AI Make a Fujifilm Recipe? — Kodak Ektachrome E100VS — Two Fujifilm X-T5 (X-Trans V + X-Trans IV) Film Simulation Recipes!! #1",
       "Vivid Velvia"
     ],
-    "resolutionNotes": "Best match ratio 0.32 was too weak to claim a reliable recipe name.",
-    "bestScoreRatio": 0.3225806451612903
+    "resolutionNotes": "Best match ratio 0.42 was not strong enough to claim a reliable recipe name.",
+    "bestScoreRatio": 0.417910447761194
   },
   "weather": {
     "isAvailable": false,

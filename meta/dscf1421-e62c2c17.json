@@ -45,31 +45,38 @@
     "effectiveProfile": "sRGB"
   },
   "location": {
-    "frontLabel": "Lumbini, Nepal",
-    "archiveLabel": "Monastic Zone, Lumbini, Nepal",
+    "frontLabel": "Monastic Zone, Lumbini, Lumbini Province, Nepal",
+    "archiveLabel": "Monastic Zone, Lumbini, Lumbini Province, Nepal",
     "coordinatesDms": "",
     "countryCode": "NP",
     "countryName": "Nepal",
     "labelSource": "curated_override",
     "hasGps": false,
+    "place": "Monastic Zone",
+    "locality": "Lumbini",
+    "region": "Lumbini Province",
+    "editorialBroadLabel": "",
+    "precisionMode": 0,
     "recognizablePlace": "Monastic Zone",
     "tidbitQuery": "Lumbini Monastic Zone"
   },
   "recipeResolution": {
-    "recipeNameUsed": "Recipe: Unresolved",
+    "recipeNameUsed": "",
     "nameSource": "unresolved",
     "confidence": "unresolved",
     "matchedFields": [
       "film_simulation",
-      "shadow"
+      "white_balance",
+      "clarity"
     ],
     "candidateMatches": [
-      "Aerochrome v2 — Fujifilm X-T3/X-T30 Full Spectrum Infrared Film Simulation",
       "BewareMyVelvia — A Fujifilm Film Simulation Recipe for X-Trans IV & V",
+      "Can AI Make a Fujifilm Recipe? — Kodak Ektachrome E100VS — Two Fujifilm X-T5 (X-Trans V + X-Trans IV) Film Simulation Recipes!! #2",
+      "Can AI Make a Fujifilm Recipe? — Kodak Ektachrome E100VS — Two Fujifilm X-T5 (X-Trans V + X-Trans IV) Film Simulation Recipes!! #1",
       "Vivid Velvia"
     ],
-    "resolutionNotes": "Best match ratio 0.29 was too weak to claim a reliable recipe name.",
-    "bestScoreRatio": 0.2857142857142857
+    "resolutionNotes": "Best match ratio 0.36 was not strong enough to claim a reliable recipe name.",
+    "bestScoreRatio": 0.3582089552238806
   },
   "weather": {
     "isAvailable": false,

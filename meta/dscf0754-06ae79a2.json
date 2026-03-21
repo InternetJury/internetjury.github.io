@@ -45,30 +45,43 @@
     "effectiveProfile": "sRGB"
   },
   "location": {
-    "frontLabel": "Annapurna Range, Nepal",
-    "archiveLabel": "Annapurna Range, Gandaki Province, Nepal",
+    "frontLabel": "Near the Annapurna Range, Gandaki Province, Nepal",
+    "archiveLabel": "Near the Annapurna Range, Gandaki Province, Nepal",
     "coordinatesDms": "28° 20' N, 83° 47' E",
     "countryCode": "NP",
     "countryName": "Nepal",
     "labelSource": "curated_override",
     "hasGps": true,
+    "place": "Near the Annapurna Range",
+    "locality": "",
+    "region": "Gandaki Province",
+    "editorialBroadLabel": "",
+    "precisionMode": 0,
     "recognizablePlace": "Annapurna Range",
     "tidbitQuery": "Annapurna Range"
   },
   "recipeResolution": {
-    "recipeNameUsed": "Recipe: Unresolved",
+    "recipeNameUsed": "",
     "nameSource": "unresolved",
     "confidence": "unresolved",
     "matchedFields": [
       "film_simulation",
       "dynamic_range",
-      "shadow"
+      "highlight",
+      "shadow",
+      "noise_reduction",
+      "grain_roughness",
+      "grain_size"
     ],
     "candidateMatches": [
-      "Kodak Farbwelt 200 Expired — A Fujifilm Film Simulation Recipe for X-Trans V Cameras"
+      "Kodak Farbwelt 200 Expired — A Fujifilm Film Simulation Recipe for X-Trans V Cameras",
+      "Getting a Wes Anderson Look from your Fujifilm Camera + 4 new Film Simulation Recipes!!!! #1",
+      "Getting a Wes Anderson Look from your Fujifilm Camera + 4 new Film Simulation Recipes!!!! #2",
+      "Kodak Gold 200 — Fujifilm X-T5 (X-Trans V)",
+      "Kodak Portra 800 v3 — Fujifilm X-T5 (X-Trans V) & X-E4 (X-Trans IV)"
     ],
-    "resolutionNotes": "Best match ratio 0.38 was too weak to claim a reliable recipe name.",
-    "bestScoreRatio": 0.3793103448275862
+    "resolutionNotes": "Best match ratio 0.52 was not strong enough to claim a reliable recipe name.",
+    "bestScoreRatio": 0.5238095238095238
   },
   "weather": {
     "isAvailable": true,
