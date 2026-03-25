@@ -1,48 +1,21 @@
 {
-  "metadata": {
-    "sourceFilename": "DSCF1502.JPG",
-    "sourcePath": "Z:/Photos for Print/Nepal Trip/Input/JPEG/DSCF1502.JPG",
-    "photoId": "dscf1502-a4a870d9",
-    "sourceSha256": "a4a870d94a4b1727885d5c36add74370b3ce278adf3485bc0ad64f5c40d19fd3",
-    "sourceWidth": 6240,
-    "sourceHeight": 4160,
-    "orientationTag": 1,
-    "orientation": 1,
-    "captureDateTime": "2025:11:21 09:43:05",
-    "cameraMake": "FUJIFILM",
-    "cameraModel": "X-S20",
-    "lensModel": "Sigma 18-50mm f/2.8",
-    "focalLengthMm": "50mm",
-    "focalLength35mmMm": "75mm",
-    "aperture": "f/2.8",
-    "shutter": "1/150s",
-    "iso": "2500",
-    "gpsLatitude": null,
-    "gpsLongitude": null,
-    "filmSimulation": "Velvia",
-    "recipeSettings": {
-      "filmSimulation": "Velvia",
-      "whiteBalance": "Kelvin",
-      "whiteBalanceShift": "Red +60, Blue -80",
-      "colorTemperature": "4900",
-      "dynamicRange": "Standard",
-      "highlight": "-2 (soft)",
-      "shadow": "-2 (soft)",
-      "color": "-4 (lowest)",
-      "sharpness": "Soft",
-      "noiseReduction": "0 (normal)",
-      "clarity": "0",
-      "grainRoughness": "Off",
-      "grainSize": "Off",
-      "colorChromeEffect": "Strong",
-      "colorChromeFxBlue": "Strong",
-      "shutterType": "Mechanical"
-    },
-    "recipeSignature": "Velvia | DR Standard | WB Kelvin | WB Fine Red +60, Blue -80 | WB Temp 4900 | Highlight -2 (soft) | Shadow -2 (soft) | Color -4 (lowest) | Clarity 0 | Grain Rough Off | Grain Size Off | Color Chrome Strong | FX Blue Strong | NR 0 (normal) | Sharp Soft | Shutter Type Mechanical",
-    "embeddedRecipeName": "",
-    "embeddedRecipeNameSource": "",
-    "colorSpaceExif": "1",
-    "effectiveProfile": "sRGB"
+  "photoId": "dscf1502-a4a870d9",
+  "sourceFilename": "DSCF1502.JPG",
+  "canonicalUrl": "https://internetjury.github.io/p/dscf1502-a4a870d9/",
+  "checksumPrefix": "A4A870D94A4B1727",
+  "accentPalette": {
+    "accent": "#AE7E5F",
+    "accentSoft": "#E8DBD2",
+    "panelTint": "#F5F0EC",
+    "dateAccent": "#966C52",
+    "weatherAccent": "#C29E87"
+  },
+  "capture": {
+    "dateTimeLabel": "21 Nov 2025  09:43",
+    "cameraLine": "FUJIFILM X-S20",
+    "lensLine": "Sigma 18-50mm f/2.8",
+    "exposureLine": "1/150s  |  ISO 2500  |  50mm  |  f/2.8",
+    "filmSimulation": "Velvia"
   },
   "location": {
     "frontLabel": "Hanuman Temple, Janakpur, Madhesh Province, Nepal",
@@ -51,53 +24,87 @@
     "countryCode": "NP",
     "countryName": "Nepal",
     "labelSource": "curated_override",
-    "hasGps": false,
-    "place": "Hanuman Temple",
-    "locality": "Janakpur",
-    "region": "Madhesh Province",
-    "editorialBroadLabel": "",
-    "precisionMode": 0,
-    "recognizablePlace": "Hanuman Temple, Janakpur",
-    "tidbitQuery": "Janakpur Hanuman Temple"
+    "precisionMode": "Precise"
   },
-  "recipeResolution": {
-    "recipeNameUsed": "",
-    "nameSource": "unresolved",
+  "recipe": {
+    "nameUsed": "Unresolved in public provenance",
+    "frontStatus": "Suppressed on print when unresolved",
+    "source": "unresolved",
     "confidence": "unresolved",
-    "matchedFields": [
-      "film_simulation",
-      "white_balance",
-      "clarity",
-      "color_chrome_effect",
-      "color_chrome_fx_blue"
-    ],
+    "bestScoreRatio": 0.417910447761194,
     "candidateMatches": [
       "BewareMyVelvia — A Fujifilm Film Simulation Recipe for X-Trans IV & V",
       "Can AI Make a Fujifilm Recipe? — Kodak Ektachrome E100VS — Two Fujifilm X-T5 (X-Trans V + X-Trans IV) Film Simulation Recipes!! #2",
       "Can AI Make a Fujifilm Recipe? — Kodak Ektachrome E100VS — Two Fujifilm X-T5 (X-Trans V + X-Trans IV) Film Simulation Recipes!! #1",
       "Vivid Velvia"
     ],
-    "resolutionNotes": "Best match ratio 0.42 was not strong enough to claim a reliable recipe name.",
-    "bestScoreRatio": 0.417910447761194
+    "settings": [
+      {
+        "key": "film_simulation",
+        "value": "Velvia"
+      },
+      {
+        "key": "white_balance",
+        "value": "Kelvin"
+      },
+      {
+        "key": "white_balance_shift",
+        "value": "Red +60, Blue -80"
+      },
+      {
+        "key": "color_temperature",
+        "value": "4900"
+      },
+      {
+        "key": "dynamic_range",
+        "value": "Standard"
+      },
+      {
+        "key": "highlight",
+        "value": "-2 (soft)"
+      },
+      {
+        "key": "shadow",
+        "value": "-2 (soft)"
+      },
+      {
+        "key": "color",
+        "value": "-4 (lowest)"
+      },
+      {
+        "key": "sharpness",
+        "value": "Soft"
+      },
+      {
+        "key": "noise_reduction",
+        "value": "0 (normal)"
+      },
+      {
+        "key": "clarity",
+        "value": "0"
+      },
+      {
+        "key": "grain_roughness",
+        "value": "Off"
+      },
+      {
+        "key": "grain_size",
+        "value": "Off"
+      },
+      {
+        "key": "color_chrome_effect",
+        "value": "Strong"
+      },
+      {
+        "key": "color_chrome_fx_blue",
+        "value": "Strong"
+      },
+      {
+        "key": "shutter_type",
+        "value": "Mechanical"
+      }
+    ]
   },
-  "weather": {
-    "isAvailable": false,
-    "summary": "",
-    "temperatureC": "",
-    "timeLabel": "",
-    "sourceLabel": "GPS unavailable.",
-    "sourceUrl": ""
-  },
-  "tidbit": {
-    "isAvailable": false,
-    "title": "",
-    "summary": "",
-    "sourceLabel": "",
-    "sourceUrl": ""
-  },
-  "archiveLink": {
-    "baseUrl": "https://internetjury.github.io",
-    "relativePath": "/p/dscf1502-a4a870d9/",
-    "url": "https://internetjury.github.io/p/dscf1502-a4a870d9/"
-  }
+  "weather": null,
+  "tidbit": null
 }

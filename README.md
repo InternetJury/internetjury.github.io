@@ -1,10 +1,8 @@
 # Public archive export
 
-This folder is a GitHub Pages-ready static site scaffold generated from the normalized image archive records.
+This GitHub Pages export is intentionally metadata-only.
 
-Suggested hosting model:
-- repo name: `internetjury.github.io`
-- canonical URL base: `https://internetjury.github.io`
-- per-image path: `/p/<photo-id>/`
-
-The QR codes in the print proofs are generated from the configured base URL and the immutable `photo-id`.
+- no public image binaries are emitted
+- no page renders the photograph
+- the QR points to `/p/<photo-id>/`
+- the public page exposes only the image ID and archival metadata

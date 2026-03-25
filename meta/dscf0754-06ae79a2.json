@@ -1,48 +1,21 @@
 {
-  "metadata": {
-    "sourceFilename": "DSCF0754.JPG",
-    "sourcePath": "Z:/Photos for Print/Nepal Trip/Input/JPEG/DSCF0754.JPG",
-    "photoId": "dscf0754-06ae79a2",
-    "sourceSha256": "06ae79a238805f6a5ef92d8efc9ddde46867412a8bc048755bfe19c39731d685",
-    "sourceWidth": 6240,
-    "sourceHeight": 4160,
-    "orientationTag": 1,
-    "orientation": 1,
-    "captureDateTime": "2025:11:16 06:42:20",
-    "cameraMake": "FUJIFILM",
-    "cameraModel": "X-S20",
-    "lensModel": "Sigma 18-50mm f/2.8",
-    "focalLengthMm": "50mm",
-    "focalLength35mmMm": "75mm",
-    "aperture": "f/2.8",
-    "shutter": "1/150s",
-    "iso": "2000",
-    "gpsLatitude": 28.3327686111111,
-    "gpsLongitude": 83.7885422222222,
-    "filmSimulation": "Classic Chrome",
-    "recipeSettings": {
-      "filmSimulation": "Classic Chrome",
-      "whiteBalance": "Daylight",
-      "whiteBalanceShift": "Red +60, Blue -140",
-      "colorTemperature": "",
-      "dynamicRange": "Standard",
-      "highlight": "-2 (soft)",
-      "shadow": "-2 (soft)",
-      "color": "+4 (highest)",
-      "sharpness": "Soft",
-      "noiseReduction": "-4 (weakest)",
-      "clarity": "-3",
-      "grainRoughness": "Strong",
-      "grainSize": "Large",
-      "colorChromeEffect": "Off",
-      "colorChromeFxBlue": "Off",
-      "shutterType": "Mechanical"
-    },
-    "recipeSignature": "Classic Chrome | DR Standard | WB Daylight | WB Fine Red +60, Blue -140 | Highlight -2 (soft) | Shadow -2 (soft) | Color +4 (highest) | Clarity -3 | Grain Rough Strong | Grain Size Large | Color Chrome Off | FX Blue Off | NR -4 (weakest) | Sharp Soft | Shutter Type Mechanical",
-    "embeddedRecipeName": "",
-    "embeddedRecipeNameSource": "",
-    "colorSpaceExif": "1",
-    "effectiveProfile": "sRGB"
+  "photoId": "dscf0754-06ae79a2",
+  "sourceFilename": "DSCF0754.JPG",
+  "canonicalUrl": "https://internetjury.github.io/p/dscf0754-06ae79a2/",
+  "checksumPrefix": "06AE79A238805F6A",
+  "accentPalette": {
+    "accent": "#D4B88E",
+    "accentSoft": "#F3EBDF",
+    "panelTint": "#FAF6F1",
+    "dateAccent": "#B69E7A",
+    "weatherAccent": "#DFCAAA"
+  },
+  "capture": {
+    "dateTimeLabel": "16 Nov 2025  06:42",
+    "cameraLine": "FUJIFILM X-S20",
+    "lensLine": "Sigma 18-50mm f/2.8",
+    "exposureLine": "1/150s  |  ISO 2000  |  50mm  |  f/2.8",
+    "filmSimulation": "Classic Chrome"
   },
   "location": {
     "frontLabel": "Near the Annapurna Range, Gandaki Province, Nepal",
@@ -51,28 +24,14 @@
     "countryCode": "NP",
     "countryName": "Nepal",
     "labelSource": "curated_override",
-    "hasGps": true,
-    "place": "Near the Annapurna Range",
-    "locality": "",
-    "region": "Gandaki Province",
-    "editorialBroadLabel": "Near the Annapurna Range, Nepal",
-    "precisionMode": 1,
-    "recognizablePlace": "Annapurna Range",
-    "tidbitQuery": "Annapurna Range"
+    "precisionMode": "EditorialBroad"
   },
-  "recipeResolution": {
-    "recipeNameUsed": "",
-    "nameSource": "unresolved",
+  "recipe": {
+    "nameUsed": "Unresolved in public provenance",
+    "frontStatus": "Suppressed on print when unresolved",
+    "source": "unresolved",
     "confidence": "unresolved",
-    "matchedFields": [
-      "film_simulation",
-      "dynamic_range",
-      "highlight",
-      "shadow",
-      "noise_reduction",
-      "grain_roughness",
-      "grain_size"
-    ],
+    "bestScoreRatio": 0.5238095238095238,
     "candidateMatches": [
       "Kodak Farbwelt 200 Expired — A Fujifilm Film Simulation Recipe for X-Trans V Cameras",
       "Getting a Wes Anderson Look from your Fujifilm Camera + 4 new Film Simulation Recipes!!!! #1",
@@ -80,27 +39,75 @@
       "Kodak Gold 200 — Fujifilm X-T5 (X-Trans V)",
       "Kodak Portra 800 v3 — Fujifilm X-T5 (X-Trans V) & X-E4 (X-Trans IV)"
     ],
-    "resolutionNotes": "Best match ratio 0.52 was not strong enough to claim a reliable recipe name.",
-    "bestScoreRatio": 0.5238095238095238
+    "settings": [
+      {
+        "key": "film_simulation",
+        "value": "Classic Chrome"
+      },
+      {
+        "key": "white_balance",
+        "value": "Daylight"
+      },
+      {
+        "key": "white_balance_shift",
+        "value": "Red +60, Blue -140"
+      },
+      {
+        "key": "dynamic_range",
+        "value": "Standard"
+      },
+      {
+        "key": "highlight",
+        "value": "-2 (soft)"
+      },
+      {
+        "key": "shadow",
+        "value": "-2 (soft)"
+      },
+      {
+        "key": "color",
+        "value": "+4 (highest)"
+      },
+      {
+        "key": "sharpness",
+        "value": "Soft"
+      },
+      {
+        "key": "noise_reduction",
+        "value": "-4 (weakest)"
+      },
+      {
+        "key": "clarity",
+        "value": "-3"
+      },
+      {
+        "key": "grain_roughness",
+        "value": "Strong"
+      },
+      {
+        "key": "grain_size",
+        "value": "Large"
+      },
+      {
+        "key": "color_chrome_effect",
+        "value": "Off"
+      },
+      {
+        "key": "color_chrome_fx_blue",
+        "value": "Off"
+      },
+      {
+        "key": "shutter_type",
+        "value": "Mechanical"
+      }
+    ]
   },
   "weather": {
-    "isAvailable": true,
     "summary": "Clear",
     "temperatureC": "11.0°C",
     "timeLabel": "2025-11-16T07:00",
     "sourceLabel": "Open-Meteo historical nearest-hour estimate",
     "sourceUrl": "https://open-meteo.com/en/docs/historical-weather-api"
   },
-  "tidbit": {
-    "isAvailable": false,
-    "title": "",
-    "summary": "",
-    "sourceLabel": "",
-    "sourceUrl": ""
-  },
-  "archiveLink": {
-    "baseUrl": "https://internetjury.github.io",
-    "relativePath": "/p/dscf0754-06ae79a2/",
-    "url": "https://internetjury.github.io/p/dscf0754-06ae79a2/"
-  }
+  "tidbit": null
 }

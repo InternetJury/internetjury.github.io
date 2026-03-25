@@ -1,48 +1,21 @@
 {
-  "metadata": {
-    "sourceFilename": "DSCF1485.JPG",
-    "sourcePath": "Z:/Photos for Print/Nepal Trip/Input/JPEG/DSCF1485.JPG",
-    "photoId": "dscf1485-e1faf203",
-    "sourceSha256": "e1faf20366a04750434e05e9ab1e990b8d7a81d870598626d435892594422e19",
-    "sourceWidth": 4160,
-    "sourceHeight": 6240,
-    "orientationTag": 8,
-    "orientation": 0,
-    "captureDateTime": "2025:11:21 08:48:52",
-    "cameraMake": "FUJIFILM",
-    "cameraModel": "X-S20",
-    "lensModel": "Sigma 18-50mm f/2.8",
-    "focalLengthMm": "18mm",
-    "focalLength35mmMm": "27mm",
-    "aperture": "f/7.1",
-    "shutter": "1/1900s",
-    "iso": "640",
-    "gpsLatitude": null,
-    "gpsLongitude": null,
-    "filmSimulation": "Classic Negative",
-    "recipeSettings": {
-      "filmSimulation": "Classic Negative",
-      "whiteBalance": "Auto",
-      "whiteBalanceShift": "Red +80, Blue -100",
-      "colorTemperature": "",
-      "dynamicRange": "Standard",
-      "highlight": "-2 (soft)",
-      "shadow": "+1 (medium hard)",
-      "color": "+4 (highest)",
-      "sharpness": "Normal",
-      "noiseReduction": "-4 (weakest)",
-      "clarity": "-4",
-      "grainRoughness": "Strong",
-      "grainSize": "Large",
-      "colorChromeEffect": "Strong",
-      "colorChromeFxBlue": "Strong",
-      "shutterType": "Mechanical"
-    },
-    "recipeSignature": "Classic Negative | DR Standard | WB Auto | WB Fine Red +80, Blue -100 | Highlight -2 (soft) | Shadow +1 (medium hard) | Color +4 (highest) | Clarity -4 | Grain Rough Strong | Grain Size Large | Color Chrome Strong | FX Blue Strong | NR -4 (weakest) | Sharp Normal | Shutter Type Mechanical",
-    "embeddedRecipeName": "",
-    "embeddedRecipeNameSource": "",
-    "colorSpaceExif": "1",
-    "effectiveProfile": "sRGB"
+  "photoId": "dscf1485-e1faf203",
+  "sourceFilename": "DSCF1485.JPG",
+  "canonicalUrl": "https://internetjury.github.io/p/dscf1485-e1faf203/",
+  "checksumPrefix": "E1FAF20366A04750",
+  "accentPalette": {
+    "accent": "#B07E67",
+    "accentSoft": "#E9DBD4",
+    "panelTint": "#F6F0ED",
+    "dateAccent": "#976C59",
+    "weatherAccent": "#C49E8D"
+  },
+  "capture": {
+    "dateTimeLabel": "21 Nov 2025  08:48",
+    "cameraLine": "FUJIFILM X-S20",
+    "lensLine": "Sigma 18-50mm f/2.8",
+    "exposureLine": "1/1900s  |  ISO 640  |  18mm  |  f/7.1",
+    "filmSimulation": "Classic Negative"
   },
   "location": {
     "frontLabel": "Kathmandu, Bagmati Province, Nepal",
@@ -51,29 +24,14 @@
     "countryCode": "NP",
     "countryName": "Nepal",
     "labelSource": "curated_override",
-    "hasGps": false,
-    "place": "",
-    "locality": "Kathmandu",
-    "region": "Bagmati Province",
-    "editorialBroadLabel": "",
-    "precisionMode": 0,
-    "recognizablePlace": "Kathmandu",
-    "tidbitQuery": "Kathmandu"
+    "precisionMode": "Precise"
   },
-  "recipeResolution": {
-    "recipeNameUsed": "",
-    "nameSource": "unresolved",
+  "recipe": {
+    "nameUsed": "Unresolved in public provenance",
+    "frontStatus": "Suppressed on print when unresolved",
+    "source": "unresolved",
     "confidence": "unresolved",
-    "matchedFields": [
-      "film_simulation",
-      "white_balance",
-      "highlight",
-      "noise_reduction",
-      "grain_roughness",
-      "grain_size",
-      "color_chrome_effect",
-      "color_chrome_fx_blue"
-    ],
+    "bestScoreRatio": 0.5555555555555556,
     "candidateMatches": [
       "Reggie’s Superia — A Fujifilm Recipe for X-Trans IV & V Cameras",
       "Pacific Blues — Fujifilm X-T5 (X-Trans V)",
@@ -81,27 +39,69 @@
       "Superia Xtra 400 — Fujifilm X-T5 (X-Trans V)",
       "Kodak Royal Gold 400 — Fujifilm X-Trans IV & X-Trans V"
     ],
-    "resolutionNotes": "Best match ratio 0.56 was not strong enough to claim a reliable recipe name.",
-    "bestScoreRatio": 0.5555555555555556
+    "settings": [
+      {
+        "key": "film_simulation",
+        "value": "Classic Negative"
+      },
+      {
+        "key": "white_balance",
+        "value": "Auto"
+      },
+      {
+        "key": "white_balance_shift",
+        "value": "Red +80, Blue -100"
+      },
+      {
+        "key": "dynamic_range",
+        "value": "Standard"
+      },
+      {
+        "key": "highlight",
+        "value": "-2 (soft)"
+      },
+      {
+        "key": "shadow",
+        "value": "+1 (medium hard)"
+      },
+      {
+        "key": "color",
+        "value": "+4 (highest)"
+      },
+      {
+        "key": "sharpness",
+        "value": "Normal"
+      },
+      {
+        "key": "noise_reduction",
+        "value": "-4 (weakest)"
+      },
+      {
+        "key": "clarity",
+        "value": "-4"
+      },
+      {
+        "key": "grain_roughness",
+        "value": "Strong"
+      },
+      {
+        "key": "grain_size",
+        "value": "Large"
+      },
+      {
+        "key": "color_chrome_effect",
+        "value": "Strong"
+      },
+      {
+        "key": "color_chrome_fx_blue",
+        "value": "Strong"
+      },
+      {
+        "key": "shutter_type",
+        "value": "Mechanical"
+      }
+    ]
   },
-  "weather": {
-    "isAvailable": false,
-    "summary": "",
-    "temperatureC": "",
-    "timeLabel": "",
-    "sourceLabel": "GPS unavailable.",
-    "sourceUrl": ""
-  },
-  "tidbit": {
-    "isAvailable": false,
-    "title": "",
-    "summary": "",
-    "sourceLabel": "",
-    "sourceUrl": ""
-  },
-  "archiveLink": {
-    "baseUrl": "https://internetjury.github.io",
-    "relativePath": "/p/dscf1485-e1faf203/",
-    "url": "https://internetjury.github.io/p/dscf1485-e1faf203/"
-  }
+  "weather": null,
+  "tidbit": null
 }

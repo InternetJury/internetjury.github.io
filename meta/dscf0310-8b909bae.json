@@ -1,48 +1,21 @@
 {
-  "metadata": {
-    "sourceFilename": "DSCF0310.JPG",
-    "sourcePath": "Z:/Photos for Print/Nepal Trip/Input/JPEG/DSCF0310.JPG",
-    "photoId": "dscf0310-8b909bae",
-    "sourceSha256": "8b909bae1c78394ffcd609fc59c660a0e73ba11a779c4189dba37c1e2e538f06",
-    "sourceWidth": 4160,
-    "sourceHeight": 6240,
-    "orientationTag": 8,
-    "orientation": 0,
-    "captureDateTime": "2025:11:13 14:24:51",
-    "cameraMake": "FUJIFILM",
-    "cameraModel": "X-S20",
-    "lensModel": "Sigma 18-50mm f/2.8",
-    "focalLengthMm": "50mm",
-    "focalLength35mmMm": "75mm",
-    "aperture": "f/5.6",
-    "shutter": "1/480s",
-    "iso": "160",
-    "gpsLatitude": null,
-    "gpsLongitude": null,
-    "filmSimulation": "Classic Chrome",
-    "recipeSettings": {
-      "filmSimulation": "Classic Chrome",
-      "whiteBalance": "Auto",
-      "whiteBalanceShift": "Red +40, Blue -80",
-      "colorTemperature": "",
-      "dynamicRange": "Standard",
-      "highlight": "-1 (medium soft)",
-      "shadow": "-1 (medium soft)",
-      "color": "+2 (high)",
-      "sharpness": "Soft",
-      "noiseReduction": "-4 (weakest)",
-      "clarity": "0",
-      "grainRoughness": "Weak",
-      "grainSize": "Small",
-      "colorChromeEffect": "Strong",
-      "colorChromeFxBlue": "Weak",
-      "shutterType": "Mechanical"
-    },
-    "recipeSignature": "Classic Chrome | DR Standard | WB Auto | WB Fine Red +40, Blue -80 | Highlight -1 (medium soft) | Shadow -1 (medium soft) | Color +2 (high) | Clarity 0 | Grain Rough Weak | Grain Size Small | Color Chrome Strong | FX Blue Weak | NR -4 (weakest) | Sharp Soft | Shutter Type Mechanical",
-    "embeddedRecipeName": "",
-    "embeddedRecipeNameSource": "",
-    "colorSpaceExif": "1",
-    "effectiveProfile": "sRGB"
+  "photoId": "dscf0310-8b909bae",
+  "sourceFilename": "DSCF0310.JPG",
+  "canonicalUrl": "https://internetjury.github.io/p/dscf0310-8b909bae/",
+  "checksumPrefix": "8B909BAE1C78394F",
+  "accentPalette": {
+    "accent": "#738A94",
+    "accentSoft": "#D8DEE1",
+    "panelTint": "#EEF1F2",
+    "dateAccent": "#63777F",
+    "weatherAccent": "#96A7AF"
+  },
+  "capture": {
+    "dateTimeLabel": "13 Nov 2025  14:24",
+    "cameraLine": "FUJIFILM X-S20",
+    "lensLine": "Sigma 18-50mm f/2.8",
+    "exposureLine": "1/480s  |  ISO 160  |  50mm  |  f/5.6",
+    "filmSimulation": "Classic Chrome"
   },
   "location": {
     "frontLabel": "Somewhere near the Himalayas, Nepal",
@@ -51,24 +24,14 @@
     "countryCode": "NP",
     "countryName": "Nepal",
     "labelSource": "curated_override",
-    "hasGps": false,
-    "place": "",
-    "locality": "",
-    "region": "",
-    "editorialBroadLabel": "Near the Himalayas, Nepal",
-    "precisionMode": 1,
-    "recognizablePlace": "Himalayas",
-    "tidbitQuery": "Himalayas"
+    "precisionMode": "EditorialBroad"
   },
-  "recipeResolution": {
-    "recipeNameUsed": "",
-    "nameSource": "unresolved",
+  "recipe": {
+    "nameUsed": "Unresolved in public provenance",
+    "frontStatus": "Suppressed on print when unresolved",
+    "source": "unresolved",
     "confidence": "unresolved",
-    "matchedFields": [
-      "film_simulation",
-      "white_balance",
-      "color"
-    ],
+    "bestScoreRatio": 0.6857142857142857,
     "candidateMatches": [
       "Fujifilm X-Trans IV Film Simulation Recipe: Reggie’s Portra",
       "Kodachrome 64 — Fujifilm X-T5 (X-Trans V)",
@@ -76,27 +39,69 @@
       "Getting a Wes Anderson Look from your Fujifilm Camera + 4 new Film Simulation Recipes!!!! #1",
       "Kodak Portra 160 v2 — Fujifilm X-T5 (X-Trans V)"
     ],
-    "resolutionNotes": "Best match ratio 0.69 was not strong enough to claim a reliable recipe name.",
-    "bestScoreRatio": 0.6857142857142857
+    "settings": [
+      {
+        "key": "film_simulation",
+        "value": "Classic Chrome"
+      },
+      {
+        "key": "white_balance",
+        "value": "Auto"
+      },
+      {
+        "key": "white_balance_shift",
+        "value": "Red +40, Blue -80"
+      },
+      {
+        "key": "dynamic_range",
+        "value": "Standard"
+      },
+      {
+        "key": "highlight",
+        "value": "-1 (medium soft)"
+      },
+      {
+        "key": "shadow",
+        "value": "-1 (medium soft)"
+      },
+      {
+        "key": "color",
+        "value": "+2 (high)"
+      },
+      {
+        "key": "sharpness",
+        "value": "Soft"
+      },
+      {
+        "key": "noise_reduction",
+        "value": "-4 (weakest)"
+      },
+      {
+        "key": "clarity",
+        "value": "0"
+      },
+      {
+        "key": "grain_roughness",
+        "value": "Weak"
+      },
+      {
+        "key": "grain_size",
+        "value": "Small"
+      },
+      {
+        "key": "color_chrome_effect",
+        "value": "Strong"
+      },
+      {
+        "key": "color_chrome_fx_blue",
+        "value": "Weak"
+      },
+      {
+        "key": "shutter_type",
+        "value": "Mechanical"
+      }
+    ]
   },
-  "weather": {
-    "isAvailable": false,
-    "summary": "",
-    "temperatureC": "",
-    "timeLabel": "",
-    "sourceLabel": "GPS unavailable.",
-    "sourceUrl": ""
-  },
-  "tidbit": {
-    "isAvailable": false,
-    "title": "",
-    "summary": "",
-    "sourceLabel": "",
-    "sourceUrl": ""
-  },
-  "archiveLink": {
-    "baseUrl": "https://internetjury.github.io",
-    "relativePath": "/p/dscf0310-8b909bae/",
-    "url": "https://internetjury.github.io/p/dscf0310-8b909bae/"
-  }
+  "weather": null,
+  "tidbit": null
 }
